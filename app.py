@@ -1,6 +1,6 @@
 import streamlit as st
 from magic_funcs import generate_response_from_text, read_scenario_by_voice, generate_image_from_text, send_simple_message, generate_response_from_image
-from converter_funcs import image_from_url, image_to_blob
+from converter_funcs import image_from_url
 import google.generativeai as genai
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
