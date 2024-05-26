@@ -1,7 +1,6 @@
 google
 google-generativeai
 python-dotenv
-openai<=0.25.0
 streamlit
 gtts
 requests
