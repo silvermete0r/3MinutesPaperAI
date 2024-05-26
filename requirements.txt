@@ -7,3 +7,4 @@ requests
 PyPDF2
 moviepy
 Pillow
+openai
