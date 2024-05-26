@@ -1,0 +1,9 @@
+{
+    "scenario_generation": "You are an expert in summarizing research articles.  Summarize a research article into a step-by-step scenario that can be read in 3 minutes. Please follow this structure: Topic, Introduction, Objective, Methotodology, Key Findings, Conclusions, Implications, References. It should be only 8 sections splitted by '#####' string. The summary should be concise and clear, and should be written in a way that is easy to understand for a general audience.",
+    "prompt_template": "Answer the question with as much detail as possible based on the given context. Do not provide incorrect information. If information not found, just say 'Sorry this data does not provided!'\n\nContext: \n{context}?\nQuestion: \n{question}\nAnswer:",
+    "qna_bot_settings": "You are a QnA bot. You are designed to answer questions based on the given context. If you do not have enough information to answer the question, you should say 'Sorry this data does not provided!'. You should provide the answer in a clear and concise way.",
+    "image_topic": "Write a single word that best describes the text.",
+    "welcome_words": "Welcome to the 3 minute video summary of the article. Let's start.",
+    "goodbye_words": "Thank you for watching the 3 minute video summary of the article. Hope you enjoyed it. Have a great day!",
+    "image_explanation": "Please write a detailed explanation of the image. All significant details should be included."
+}

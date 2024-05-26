@@ -1,0 +1,12 @@
+google
+google-generativeai
+python-dotenv
+openai
+streamlit
+gtts
+requests
+PyPDF2
+moviepy
+json
+Pillow
+base64
