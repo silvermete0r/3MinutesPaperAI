@@ -7,6 +7,5 @@ gtts
 requests
 PyPDF2
 moviepy
-json
 Pillow
 base64
