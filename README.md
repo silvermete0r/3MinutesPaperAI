@@ -10,6 +10,9 @@
 
 **Deliverables:** web application with functionality for uploading PDFs and adjusting settings for generating summaries in video, text & audio formats.
 
+![image](https://github.com/silvermete0r/3MinutesPaperAI/assets/108217670/eda9b294-07c2-45f4-9b16-8c3c44df3af5)
+
+
 **How to use, just open:** 3minutespaperai.streamlit.app 
 
 ![3MinutesPaperAI - nFactorial LLM Hackathon 2024 - 3MinutesPaperAI](https://github.com/silvermete0r/3MinutesPaperAI/assets/108217670/3bad88f5-2555-47db-977b-41845a4c7c37)
